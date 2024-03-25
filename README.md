@@ -1,2 +1,2 @@
 # support-files
-*used for an open source project*
+**used for my open source projects**
